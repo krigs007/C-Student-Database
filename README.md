@@ -1,7 +1,7 @@
 # STUDENT DATABASE                                                                                                              
 ## DESCRIPTION
 STUDENT DATABASE, sesuai dengan namanya adalah program berbasis C yang bertujuan membuat dan/atau memanipulasi database dengan mudah. Program ini ditujukan kepada Guru/Dosen yang selalu membuat database siswa/Mahasiswa-nya. Program ini dibuat berdasarkan "Microsoft Excel" dalam pikiran, sehingga tidak sedikit fitur yang memiliki kesamaan dengan yang ada pada Excel. Dalam program sudah terdapat template mata kuliah yang creator jalani sekarang. (untuk saat ini pengubahan nama mata kuliah dapat diubah di dalam source code yang diberikan).
-<a href="visuals">This is a link</a>
+
 ## VISUALS
 <p align="center">
 <img src="Images/Visual_.png">
