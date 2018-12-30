@@ -4,12 +4,6 @@ STUDENT DATABASE, sesuai dengan namanya adalah program berbasis C yang bertujuan
 <a href="visuals">This is a link</a>
 ## VISUALS
 <p align="center">
-<img src="Images/Visual/Visual1.png">
-<img src="Images/Visual/Visual0.png">
-<img src="Images/Visual/Visual2.png">
-<img src="Images/Visual/Visual3.png">
-<img src="Images/Visual/Visual4.png">
-<img src="Images/Visual/Visual5.png">
 </p>
 
 
@@ -90,10 +84,6 @@ Download salah satu dari kedua pilihan yaitu source code(advance user) / .exe
 </ol>
 *harus sesuai berarti NPM yang dicari harus ada dan sama dengan NPM yang di input
 
-## SUPPORT
-<p>hoseayoarana@gmail.com</p>
-<p>kristiangirsang007@gmail.com</p>
-
 ## AUTHORS AND ACKNOWLEDGMENT
 <p>Kristian Girsang</p>
 <p>Hosea Yoarana 1706042913</p>
@@ -111,7 +101,7 @@ Alpha
     <p>A : Untuk advance user dapat mengubahnya secara langsung pada source code
          Untuk non-advance user akan di implementasikan pengubahan nama mata kuliah di release yang akan datang</p>
 3. <p>Q : Saya mengalami masalah tertentu pada program atau saya mendapati beberapa bug pada program, dimana saya harus melaporkannya?</p>
-    <p>A : Berbagai macam laporan dapat di kirimkan ke bagian SUPPORT di atas</p>
+    <p>A : Berbagai macam laporan dapat di kirimkan ke bagian SUPPORT</p>
 4. <p>Q : Bagaimana saya dapat berkontribusi dalam project ini?</p>
     <p>A : Kirimkan pesan ke email yang tertera di SUPPORT</p>
 
@@ -119,3 +109,6 @@ Alpha
 <p>Alpha 1.0 : Publish</p>
 <p>Alpha 1.1 : Implementasi password untuk mengakses program</p>
 
+## SUPPORT
+<p>hoseayoarana@gmail.com</p>
+<p>kristiangirsang007@gmail.com</p>
