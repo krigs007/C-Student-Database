@@ -83,8 +83,6 @@ Download salah satu dari kedua pilihan yaitu source code(advance user) / .exe
 </p>
 	Menu untuk mengetahui lebih lanjut dalam penggunaan program
 </ol>
-*harus sesuai berarti NPM yang dicari harus ada dan sama dengan NPM yang di input
-
 
 5. Penggunaan Password 
 <p align="center">
@@ -92,6 +90,7 @@ Download salah satu dari kedua pilihan yaitu source code(advance user) / .exe
 	</p>
 <p> Password yang diminta pada saat masuk pada program bisa dilihat pada file "password.txt". Pengguna dapat mengubah password sesuai dengan keinginan pada file .txt yang telah disediakan</p>
 
+*harus sesuai berarti NPM yang dicari harus ada dan sama dengan NPM yang di input
 
 ## AUTHORS AND ACKNOWLEDGMENT
 <p>Kristian Girsang 1706986012</p>
