@@ -4,6 +4,7 @@
 
 
 
+
 //****************************************************************
 //                   HEADER FILE USED IN PROJECT
 //****************************************************************
@@ -68,7 +69,7 @@ void ambil_password(){
 	fclose(file);
 }
 
-n
+
 //****************************************************************
 //        			FUNCTION TO WRITE IN FILE
 //****************************************************************
@@ -199,31 +200,31 @@ void modify_student()
            {
             printf("\nNPM Mahasiswa 						: %d",st.npm);
             printf("\nNama Mahasiswa 						: %s",st.name);
-            printf("\nNilai Mata Kuliah Matematika Teknik 				: %d",st.matek);
+            printf("\nNilai Mata Kuliah Matematika Teknik 			: %d",st.matek);
             printf("\nNilai Mata Kuliah Struktur Diskrit 			: %d",st.diskrit);
             printf("\nNilai Mata Kuliah Rangkaian Listrik 			: %d",st.RL);
-            printf("\nNilai Mata Kuliah Organisasi dan Arsitektur Komputer 		: %d",st.OAK);
-            printf("\nNilai Mata Kuliah Dasar Rangkaian Elektronika 				: %d",st.DRE);
-            printf("\nNilai Mata Kuliah Program Lanjut 		: %d",st.Proglan);
+            printf("\nNilai Mata Kuliah Organisasi dan Arsitektur Komputer 	: %d",st.OAK);
+            printf("\nNilai Mata Kuliah Dasar Rangkaian Elektronika 		: %d",st.DRE);
+            printf("\nNilai Mata Kuliah Program Lanjut 			: %d",st.Proglan);
             printf("\n\nNilai Rata-rata Mahasiswa  				: %.2f",st.rata);
             printf("\nNilai Akhir Mahasiswa 					: %c",st.grade);
-            printf("\n\n\nSilahkan Masukkan Data Baru Mahasiswa \n");
-            printf("\n\nMasukkan NPM Mahasiswa 					: ");
+            printf("\n\n\n\nSilahkan Masukkan Data Baru Mahasiswa \n");
+            printf("\n\nMasukkan NPM Mahasiswa 						: ");
 		    scanf("%d",&st.npm);
 		    fflush(stdin);
-		    printf("\n\nMasukkan Nama Mahasiswa 				: ");
+		    printf("\nMasukkan Nama Mahasiswa 					: ");
 		    gets(st.name);
 		    printf("\nMasukkan Nilai Mata Kuliah Matematika Teknik 			: ");
 		    scanf("%d",&st.matek);
-		    printf("\nMasukkan Nilai Mata Kuliah Struktur Diskrit 		: ");
+		    printf("\nMasukkan Nilai Mata Kuliah Struktur Diskrit 			: ");
 		    scanf("%d",&st.diskrit);
-		    printf("\nMasukkan Nilai Mata Kuliah Rangkaian Listrik 		: ");
+		    printf("\nMasukkan Nilai Mata Kuliah Rangkaian Listrik 			: ");
 		    scanf("%d",&st.RL);
 		    printf("\nMasukkan Nilai Mata Kuliah Organisasi dan Arsitektur Komputer 	: ");
 		    scanf("%d",&st.OAK);
-		    printf("\nMasukkan Nilai Mata Kuliah Dasar Rangkaian Elektronika 			: ");
+		    printf("\nMasukkan Nilai Mata Kuliah Dasar Rangkaian Elektronika 		: ");
 		    scanf("%d",&st.DRE);
-		    printf("\nMasukkan Nilai Mata Kuliah Program Lanjut 	: ");
+		    printf("\nMasukkan Nilai Mata Kuliah Program Lanjut 			: ");
 		    scanf("%d",&st.Proglan);
             st.rata=(st.matek+st.diskrit+st.RL+st.OAK+st.DRE+st.Proglan)/6.0;
             if(st.rata>=80 &&st.rata<=100)
