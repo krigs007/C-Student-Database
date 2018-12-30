@@ -4,6 +4,7 @@ STUDENT DATABASE, sesuai dengan namanya adalah program berbasis C yang bertujuan
 <a href="visuals">This is a link</a>
 ## VISUALS
 <p align="center">
+<img src="Images/Visual_.png">
 </p>
 
 
