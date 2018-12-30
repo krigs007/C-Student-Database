@@ -85,6 +85,14 @@ Download salah satu dari kedua pilihan yaitu source code(advance user) / .exe
 </ol>
 *harus sesuai berarti NPM yang dicari harus ada dan sama dengan NPM yang di input
 
+
+5. Penggunaan Password 
+<p align="center">
+	<img src="Images/password.png" width="350" title="Password">
+	</p>
+<p> Password yang diminta pada saat masuk pada program bisa dilihat pada file "password.txt". Pengguna dapat mengubah password sesuai dengan keinginan pada file .txt yang telah disediakan</p>
+
+
 ## AUTHORS AND ACKNOWLEDGMENT
 <p>Kristian Girsang</p>
 <p>Hosea Yoarana 1706042913</p>
