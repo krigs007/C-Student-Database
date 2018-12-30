@@ -94,7 +94,7 @@ Download salah satu dari kedua pilihan yaitu source code(advance user) / .exe
 
 
 ## AUTHORS AND ACKNOWLEDGMENT
-<p>Kristian Girsang</p>
+<p>Kristian Girsang 1706986012</p>
 <p>Hosea Yoarana 1706042913</p>
 
 ## LICENSE
